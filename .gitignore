@@ -1,9 +1,2 @@
 # ignore emacs generated files
 *~
-\#*\#
-/.emacs.desktop
-/.emacs.desktop.lock
-*.elc
-auto-save-list
-tramp
-.\#*
